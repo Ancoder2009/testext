@@ -11,7 +11,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-        [' ','%n','start bumdo party!']
+        [' ','start bumdo party with %n bumdos!','start bumdo party!']
         ]
     };
 
